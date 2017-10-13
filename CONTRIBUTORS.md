@@ -704,3 +704,8 @@ s in Computer Science
 - Place: Raleigh, North Carolina, USA
 - Bio: Programmer
 - Github: [Elan Ripley](https//github.com/tattarrattat)
+
+#### Name: [Robin Speekenbrink](https://github.com/fruitl00p/)
+- Place: The Netherlands
+- Bio: A programmer / company owner et al. I just call myself chief-co-nerd @ Kingsquare
+- GitHub: [Robin Speekenbrink](https://github.com/fruitl00p/)
